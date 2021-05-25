@@ -1,0 +1,3 @@
+https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
+https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/
+https://developer.nvidia.com/blog/how-to-build-a-winning-deep-learning-powered-recommender-system-part-3/
